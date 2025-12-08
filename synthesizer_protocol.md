@@ -155,10 +155,3 @@ Review: Identify Top 3 posts by Bookmarks.
 Harvest: Move winners to the Evergreen Backlog.
 
 Calibrate: Check your Constructive Ratio. Too negative? Force Mode: Constructive for the next 2 days.
-
-### Next Steps
-
-1.  **Save this file.**
-2.  **Fill in the "Personality Module":** When you are ready, we can draft the specific instructions for "Alexandra" (or your chosen persona) to paste into Section IV.1.
-3.  **Create the Log:** Set up a simple Google Sheet or Notion table using the schema in Section III.B.
-4.  **Run:** Execute the first loop.
