@@ -428,6 +428,7 @@ For each response:
 | What's being IGNORED | |
 | Spin-3/2 angle | |
 | Power dynamics | Who wins/loses? What's locked in? |
+| **Material conditions** | Who gets access? What infrastructure is required? What's the class dimension? |
 
 **My take type:** Correction / Extension / Synthesis / Steel-man + diverge
 
@@ -737,7 +738,9 @@ For each response:
 
 For opportunity scanning, use these searches on X:
 
-**Pillar 1 - Immortalism:**
+**Pillar 1 - Immortalism (−3/2):**
+
+*Abstract:*
 - `longevity research`
 - `life extension`
 - `aging cure`
@@ -745,14 +748,38 @@ For opportunity scanning, use these searches on X:
 - `cryonics`
 - `death acceptance` (for counter-arguments to engage)
 
-**Pillar 2 - Cosmic Expansion:**
+*Material conditions:*
+- `insulin prices`
+- `drug pricing`
+- `pharma monopoly`
+- `healthcare access`
+- `medicare for all`
+- `preventable death`
+- `life expectancy gap`
+- `clinical trials access`
+
+**Pillar 2 - Cosmic Expansion (−1/2):**
+
+*Abstract:*
 - `space settlement`
 - `open borders`
 - `freedom of movement`
 - `border abolition`
 - `exit rights`
 
-**Pillar 3 - Morphological Freedom:**
+*Material conditions:*
+- `transit funding`
+- `public transit`
+- `housing crisis`
+- `immigration reform`
+- `refugee rights`
+- `deportation`
+- `visa policy`
+- `labor mobility`
+
+**Pillar 3 - Morphological Freedom (+1/2):**
+
+*Abstract:*
 - `bodily autonomy`
 - `morphological freedom`
 - `trans rights`
@@ -760,12 +787,37 @@ For opportunity scanning, use these searches on X:
 - `enhancement`
 - `substrate independence`
 
-**Pillar 4 - Consent:**
+*Material conditions:*
+- `trans healthcare`
+- `gender affirming care`
+- `chip shortage`
+- `GPU access`
+- `compute access`
+- `right to repair`
+- `hardware supply chain`
+- `prosthetics cost`
+- `reproductive rights`
+
+**Pillar 4 - Consent (+3/2):**
+
+*Abstract:*
 - `forced optimization`
 - `paternalism`
 - `mandatory`
 - `consent tech`
 - `coercion`
+
+*Material conditions:*
+- `UBI`
+- `universal basic income`
+- `gig economy`
+- `labor rights`
+- `right to disconnect`
+- `data portability`
+- `platform exit`
+- `terms of service`
+- `dark patterns`
+- `economic precarity`
 
 **Cross-cutting:**
 - `biocosmism`
@@ -774,6 +826,9 @@ For opportunity scanning, use these searches on X:
 - `e/acc`
 - `TESCREAL`
 - `longtermism critique`
+- `tech access`
+- `digital divide`
+- `who gets access`
 
 ---
 
